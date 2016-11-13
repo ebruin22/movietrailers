@@ -13,7 +13,12 @@ Python 2.7 and above
     	2. media.py
     	3. entertainment_center2.py
 
-    The media.py file contains the data structure for the movies and the entertainment_center2.py file contains the information for each movie. Finally, the fresh_tomatoes.py file creates the webpage which includes Bootstrap, JS, Python, html, and CSS elements.  Running the entertainment_center2.py file in the python shell or editor file will generate the trailer webpage. 
+    The media.py file contains the data structure for the movies and the 
+    entertainment_center2.py file contains the information for each movie. 
+    Finally, the fresh_tomatoes.py file creates the webpage which includes
+    Bootstrap, JS, Python, html, and CSS elements. 
+    Running the entertainment_center2.py file in the python shell 
+    or editor file will generate the trailer webpage. 
 
     Use fresh_tomatoes.py to edit the format of the webpage
 
